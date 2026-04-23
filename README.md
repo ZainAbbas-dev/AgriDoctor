@@ -11,21 +11,6 @@
 
 </div>
 
----
-
-## 📱 Screenshots
-
-<div align="center">
-
-| Login | Home | Scan Leaf |
-|:---:|:---:|:---:|
-| ![Login](lib/assets/login.png) | ![Home](lib/assets/home.png) | ![Scan](lib/assets/scan_leaf.png) |
-
-| Result | Disease List | Tips |
-|:---:|:---:|:---:|
-| ![Result](lib/assets/result.png) | ![Disease List](lib/assets/disease_list.png) | ![Tips](lib/assets/tips.png) |
-
-</div>
 
 ---
 
@@ -39,6 +24,7 @@
 - [Screens](#-screens)
 - [Getting Started](#-getting-started)
 - [Disease Dataset](#-disease-dataset)
+- [Screenshots](#-screenshots)
 - [Future Enhancements](#-future-enhancements)
 - [Team](#-team)
 
@@ -230,6 +216,20 @@ The app includes a static dataset of 6 plant conditions:
 | 🟡 Yellow Mosaic Virus | High | Viral (whitefly-transmitted) — mosaic yellow-green patches |
 
 ---
+
+## 📱 Screenshots
+
+<div align="center">
+
+| Login | Home | Scan Leaf |
+|:---:|:---:|:---:|
+| ![Login](lib/assets/login.png) | ![Home](lib/assets/home.png) | ![Scan](lib/assets/scan_leaf.png) |
+
+| Result | Disease List | Tips |
+|:---:|:---:|:---:|
+| ![Result](lib/assets/result.png) | ![Disease List](lib/assets/disease_list.png) | ![Tips](lib/assets/tips.png) |
+
+</div>
 
 ## 🔮 Future Enhancements
 
