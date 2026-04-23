@@ -19,11 +19,11 @@
 
 | Login | Home | Scan Leaf |
 |:---:|:---:|:---:|
-| ![Login](assets/login.png) | ![Home](assets/home.png) | ![Scan](assets/scan_leaf.png) |
+| ![Login](lib/assets/login.png) | ![Home](lib/assets/home.png) | ![Scan](lib/assets/scan_leaf.png) |
 
 | Result | Disease List | Tips |
 |:---:|:---:|:---:|
-| ![Result](assets/result.png) | ![Disease List](assets/disease_list.png) | ![Tips](assets/tips.png) |
+| ![Result](lib/assets/result.png) | ![Disease List](lib/assets/disease_list.png) | ![Tips](lib/assets/tips.png) |
 
 </div>
 
